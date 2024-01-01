@@ -24,7 +24,7 @@ Kemudahan dan kenyamanan untuk pembeli atau pendatang untuk menentukan serta mem
 
 ### Solution statements
 
-- Mengembangkan platform Estimasi harga Trip Yellow Taxi yang terintegrasi dengan Kaggle.com guna memberikan akses yang cepat dan mudah tentang informasi kisaran harga rumah yang berada di California. platform ini menyediakan antarmuka yang mudah dimana kita dapat mengetahui harga rumah dengan aman dan mudah dengan sebuah paltform online tersebut, selain itu juga dengan adanya platform online ini kita bisa mengetahui rata-rata umur rumah, total ruangan, total kamar, serta rata-rata harga rumah yang berad di dekat laut di california. Dengan solusi ini, kami bertujuan untuk menciptakan kenyamanan bagi orang-orang ataupun pendatang yang ingin membeli rumah di California.
+- Mengembangkan platform California Housing Prices yang terintegrasi dengan Kaggle.com guna memberikan akses yang cepat dan mudah tentang informasi kisaran harga rumah yang berada di California. platform ini menyediakan antarmuka yang mudah dimana kita dapat mengetahui harga rumah dengan aman dan mudah dengan sebuah paltform online tersebut, selain itu juga dengan adanya platform online ini kita bisa mengetahui rata-rata umur rumah, total ruangan, total kamar, serta rata-rata harga rumah yang berad di dekat laut di california. Dengan solusi ini, kami bertujuan untuk menciptakan kenyamanan bagi orang-orang ataupun pendatang yang ingin membeli rumah di California.
 
 - Model yang dihasilkan dari dataset ini menggunakan metode DecisionTreeClassifier.
 
