@@ -372,7 +372,7 @@ Dari hasil Classification Report yang berhasil ditampilkan dapat dijelaskan seba
 
 ## Deployment
 
-[Streamlit-california_housing](https://app-taxi.streamlit.app/)
+[Streamlit-california_housing](https://app-californiahousing.streamlit.app/)
 
 ![Alt text](awal.png)
 ![Alt text](tengah.png)
