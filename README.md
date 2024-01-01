@@ -372,7 +372,7 @@ Dari hasil Classification Report yang berhasil ditampilkan dapat dijelaskan seba
 
 ## Deployment
 
-[Streamlit-california_housing](https://app-californiahousing.streamlit.app/)
+[Streamlit-california_housing](https://app-californiahousing-dessiciontree.streamlit.app/)
 
 ![Alt text](awal.png)
 ![Alt text](tengah.png)
